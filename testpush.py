@@ -8,3 +8,6 @@ More stuff here
 
 
 myname = "eskil"
+
+
+#Add awesome function here
